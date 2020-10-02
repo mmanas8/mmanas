@@ -1,7 +1,7 @@
 # mmanas8
 Hey! 🤙🏽 
 
-I'm Manas ,a digital product designer and data enthusiast based in Vancouver, British Columbia 🇨🇦.
+I'm Manas, a digital product designer and data enthusiast based in Vancouver, British Columbia 🇨🇦.
 
 
 I am currently designing for [@ubclaunchpad](https://ubclaunchpad.com), a student-run software-development club based at UBC.
