@@ -1,5 +1,5 @@
-# mmanas
-Hi! 🤙🏽 
+# mmanas8
+Hey! 🤙🏽 
 
 I'm Manas and I am digital product designer and data enthusiast based in Vancouver, British Columbia 🇨🇦.
 
