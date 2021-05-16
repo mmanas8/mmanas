@@ -1,7 +1,7 @@
 # mmanas8
 Hi 🤙🏽 
 
-I'm Manas, a rising junior at [UBC](ubc.ca), Vancouver 🇨🇦. I work on digital product design and product analytics.
+I'm Manas, a rising junior at [UBC](https://ubc.ca), Vancouver 🇨🇦. I work on digital product design and product analytics.
 
 I am currently designing for [@ubclaunchpad](https://ubclaunchpad.com), a student-run software-development club based at UBC.
 
