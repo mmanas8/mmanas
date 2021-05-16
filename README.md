@@ -1,12 +1,11 @@
 # mmanas8
-Hey! 🤙🏽 
+Hi 🤙🏽 
 
-I'm Manas, a digital product designer and data enthusiast based in Vancouver, British Columbia 🇨🇦.
-
+I'm Manas, a rising junior at [UBC](ubc.ca), Vancouver 🇨🇦. I work on digital product design and product analytics.
 
 I am currently designing for [@ubclaunchpad](https://ubclaunchpad.com), a student-run software-development club based at UBC.
 
-Currently seeking internships for Winter (Jan - Apr) and Spring (May - Aug) 2021.
+Currently seeking co-op internships for Fall 2021 (Jan - Apr/Aug).
 
 
-[LinkedIn](www.linkedin.com/in/mridul-manas) | [Dribbble](www.dribbble.com/xmanasy) | [Twitter](www.twitter.com/xmanasy)
+[Portfolio] (www.mridulmanas.com) | [LinkedIn](www.linkedin.com/in/mridul-manas) | [Dribbble](www.dribbble.com/xmanasy) | [Twitter](www.twitter.com/xmanasy)
