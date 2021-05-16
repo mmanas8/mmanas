@@ -8,4 +8,4 @@ I am currently designing for [@ubclaunchpad](https://ubclaunchpad.com), a studen
 Currently seeking co-op internships for Fall 2021 (Jan - Apr/Aug).
 
 
-[Portfolio] (www.mridulmanas.com) | [LinkedIn](www.linkedin.com/in/mridul-manas) | [Dribbble](www.dribbble.com/xmanasy) | [Twitter](www.twitter.com/xmanasy)
+[Portfolio](www.mridulmanas.com) | [LinkedIn](www.linkedin.com/in/mridul-manas) | [Dribbble](www.dribbble.com/xmanasy) | [Twitter](www.twitter.com/xmanasy)
