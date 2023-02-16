@@ -1,6 +1,6 @@
 # mmanas8
 Hi 🤙🏽 
 
-I'm Manas, a rising junior at [UBC](https://ubc.ca), Vancouver 🇨🇦. I am an economics student with interests/experiences in business analysis, quantitative modelling and product design. 
+I'm Manas, a junior at [UBC](https://ubc.ca), Vancouver 🇨🇦. I study honours economics with a math minor, and I work on economic/financial analysis, data  visualization, and (sometimes) product design. 
 
-[Portfolio](www.mridulmanas.com) | [LinkedIn](www.linkedin.com/in/mridul-manas) | [Dribbble](www.dribbble.com/xmanasy) | [Twitter](www.twitter.com/xmanasy)
+[Portfolio](www.mridulmanas.com) | [LinkedIn](www.linkedin.com/in/mridul-manas) | [Dribbble](www.dribbble.com/xmanasy) | [Twitter](www.twitter.com/MridulManas4)
